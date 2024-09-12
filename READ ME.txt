@@ -1,16 +1,21 @@
  Instructions:
   1. Add this launch command to Portal RTX properties: -nogamepadui
-  2. Drag and drop contents of dxvk-patch into .trex folder in Portal RTX bin
-  3. Drag and drop one of the rtx.conf presets into Portal RTX directory, make sure to replace existing rtx.conf
-  4. Set GPU clock speeds to 1600mhz and use Proton 9 for a smoother experience
+  2. Drag and drop one of the rtx.conf presets into Portal RTX directory, make sure to replace existing rtx.conf
+  3. Set GPU clock speeds to 1600mhz and use Proton 9 for a smoother experience
 
- Recommended resolutions for presets
-  Original Presets: 768x480 or 864x486
-  Current Presets: 1280x800 or 1600x900
+ Recommended resolutions and fps limits for presets
+  Normal Presets: 1280x800 or 1600x900
+  1080p Preset: 1280x800 or 1920x1080
 
-  Warning: Do not ALT + X into the dev menu, this will revert some changes in the rtx.conf and will drop your FPS to unplayable
+  Performance: 60
+  Balanced: 40
+  Quality: 30 (If using 1080p, 800p can go up to 40-50fps at 1600mhz, for better life you can uncap the GPU clock speeds and limit fps to 30)
+
+  Warning: While in ALT + X dev menu, do not go to the remix graphics menu, this will revert some changes and reduce performance
 
 Original Video: https://youtu.be/a8SR1lVgj0w?si=efm-ozpy9dp-dA9D
+
+If you need support, you can join our discord through the mod site
 
 
 
