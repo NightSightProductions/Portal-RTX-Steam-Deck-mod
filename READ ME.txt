@@ -1,18 +1,15 @@
  Instructions:
-  1. Select your architecture
+  1. Add this launch command to Portal RTX properties: RADV_PERFTEST=rt %command% -windowed -nogamepadui -dx12
   2. Drag and drop contents of dxvk-patch into .trex folder in Portal RTX bin
-  3. Drag and drop one of the rtx.conf presets into Portal RTX directory, make sure to replace existing rtx.conf (Optional for RDNA 3)
+  3. Drag and drop one of the rtx.conf presets into Portal RTX directory, make sure to replace existing rtx.conf
+  4. Set GPU clock speeds to 1600mhz for a smoother experience
 
- Tested GPUs and resolutions
-  RX 6700 at 1080p 30fps (Medium Preset)
-  RX 7600 at 1080p 60fps 1440p 40fps (Ultra Performance Medium Preset) & 1080p 40fps (Medium and TAA-U Performance)
 
- Warning: Do not ALT + X into the dev menu, this will revert some changes in the rtx.conf and will drop your FPS
+ Recommended resolutions for presets
+  Quality: 768x480 or 864x486
+  Balanced: 768x480 or 864x486
+  Performance: 768x480, 864x486 or 1152x720, 1280x720
 
- If you need support, you can join our discord through the mod site
+  Make sure to set TAA-U OR NIS to Performance
 
-  How to know your architecture:
-   RDNA 2: 6000 series, 600m series
-   RDNA 3: 7000 series, 700m series
 
-Since we only tested two GPUs, we would love feedback for others
