@@ -3,9 +3,10 @@
   2. Drag and drop one of the rtx.conf presets into Portal RTX directory, make sure to replace existing rtx.conf
   3. Set GPU clock speeds to 1600mhz and use Proton 9 for a smoother experience
 
- Recommended resolutions and fps limits for presets
+  Recommended resolutions and fps limits for presets
   Normal Presets: 1280x800 or 1600x900
   1080p Preset: 1280x800 or 1920x1080
+
 
   Performance: 60
   Balanced: 40
@@ -16,6 +17,7 @@
 Original Video: https://youtu.be/a8SR1lVgj0w?si=efm-ozpy9dp-dA9D
 
 If you need support, you can join our discord through the mod site
+
 
 
 
