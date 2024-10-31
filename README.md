@@ -7,9 +7,9 @@ This mod includes custom graphics presets, FSR 3.1 and more based on testing and
 The presets included are:
 Extreme
 Ultra
-Quality
-Balanced
-Performance
+High
+Medium
+Low
 
 you'll also find a list of instructions and recommended resolutions in the (READ ME.txt) file
 
